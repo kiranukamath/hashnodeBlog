@@ -174,6 +174,6 @@ offer received → offer viewed → transaction(s) → offer completed.
 This also shows that discount offer is better performing than Bogo offer.
 
 
-### Improvement/Future scope include:
+### Reflection and Improvement include:
 - Explore better modeling techniques and algorithms to see whether model performance can be improved in this way.
 - Do not drop the observations with missing values, but use some kind of imputation strategy to see whether the model can be improved this way.
