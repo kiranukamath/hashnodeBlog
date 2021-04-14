@@ -29,7 +29,7 @@ Blogging increased my confidence. I don't know why, but I am now much confident 
 Writing blogs has increased my confidence, both in terms of depth of understanding a concept and expressing my voice in social media.
 
 Coming to Monetization,  
-*** I don't want to monetize my blog. Actually, I don't feel like reading blog which contains ads around them, so I don't want to give that trouble to the readers.**
+**I don't want to monetize my blog. Actually, I don't feel like reading blog which contains ads around them, so I don't want to give that trouble to the readers.**
 Maybe in future, if there is a way, by which I can monetize the blog without disturbing readers than surely I may try that option.
 
 ## My Future plan in blogging
