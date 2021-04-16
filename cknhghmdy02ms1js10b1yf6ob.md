@@ -1,8 +1,5 @@
 ## Why do I write blogs?
 
-## Why did I start to write blogs?
-
-
 ### Documenting my learning and creating beginner-friendly content.
 The main reason for me to blog, is to write about things I learned and difficulties I faced while learning something new so that if a beginner is starting on the same journey, they might quickly understand beginner stuff and quickly move to intermediate level.
 
